@@ -1,0 +1,22 @@
+{
+  "name": "peter-chikezie---portfolio",
+  "version": "1.0.0",
+  "description": "```html\r <meta\r   name=\"description\"\r   content=\"Hey there! This is where I showcase my project and skills. Take a look around and let's connect!\"\r />\r ```",
+  "scripts": {
+    "start": "parcel index.html",
+    "build": "parcel build index.html --public-url /"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/chikeadmin/chip-web-portfolio.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/chikeadmin/chip-web-portfolio/issues"
+  },
+  "homepage": "https://github.com/chikeadmin/chip-web-portfolio#readme",
+  "devDependencies": {
+    "parcel": "^2.15.2"
+  }
+}
